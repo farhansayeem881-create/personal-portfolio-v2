@@ -2,6 +2,7 @@
   "items": [
     {
       "title": "Football",
+      "image": "football.jpeg",
       "organization": "Sports & recreation",
       "description": "I've played in university tournaments and many tournaments outside the university. I'm not a professional, but I play well and truly enjoy the game. If I hadn't chosen CSE, I would definitely have become a footballer.",
       "tags": ["Football", "Teamwork", "Fitness"]

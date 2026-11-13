@@ -1,4 +1,4 @@
-﻿{
+{
     "items":  [
                   {
                       "title":  "Tuition Management System",
@@ -8,7 +8,7 @@
                                    "Web Development",
                                    "Management System"
                                ],
-                      "image":  "project-tuition.png"
+                      "image":  "tution.jpeg"
                   },
                   {
                       "title":  "Cricket Management System",
@@ -40,7 +40,7 @@
                                    "Smart Parking",
                                    "Course Project"
                                ],
-                      "image":  "project-smart-parking.png"
+                      "image":  "smartparking.jpeg"
                   },
                   {
                       "title":  "Sylhet Tourist Spot",
@@ -62,7 +62,7 @@
                                    "Management System",
                                    "Course Project"
                                ],
-                      "image":  "project-birds.png"
+                      "image":  "bird.jpeg"
                   },
                   {
                       "title":  "Message Emotion Detection Using Emojis",
@@ -74,6 +74,29 @@
                                    "Emoji Analysis"
                                ],
                       "image":  "project-emotion.png"
+                  },
+                  {
+                      "title":  "DIY Electronic Piano Circuit on Breadboard",
+                      "type":  "DLC Lab | 555 Timer Project",
+                      "description":  "Built a DIY electronic piano circuit on a breadboard using a 555 timer.",
+                      "image":  "piano.jpeg",
+                      "tags":  [
+                                   "Electronics",
+                                   "555 Timer",
+                                   "Breadboard",
+                                   "Circuit Design"
+                               ]
+                  },
+                  {
+                      "title":  "School Management System",
+                      "type":  "Web Development",
+                      "description":  "Developed a school management system to organize student, academic, and administrative information.",
+                      "image":  "school (2).jpeg",
+                      "tags":  [
+                                   "School Management",
+                                   "Web Development",
+                                   "Management System"
+                               ]
                   }
               ]
 }
