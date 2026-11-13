@@ -1,0 +1,11 @@
+{
+  "items": [
+    { "title": "Introduction to Python", "issuer": "DataCamp", "category": "Python", "status": "In progress" },
+    { "title": "Intermediate Python", "issuer": "DataCamp", "category": "Python", "status": "In progress" },
+    { "title": "Introduction to Machine Learning", "issuer": "DataCamp", "category": "Machine Learning", "status": "In progress" },
+    { "title": "Supervised Learning with scikit-learn", "issuer": "DataCamp", "category": "Machine Learning", "status": "In progress" },
+    { "title": "Introduction to Artificial Intelligence", "issuer": "DataCamp", "category": "Artificial Intelligence", "status": "In progress" },
+    { "title": "Introduction to Git", "issuer": "DataCamp", "category": "Git", "status": "In progress" },
+    { "title": "Intermediate Git", "issuer": "DataCamp", "category": "Git", "status": "In progress" }
+  ]
+}

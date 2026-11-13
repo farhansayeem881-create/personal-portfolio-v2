@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "B.Sc. in Computer Science & Engineering",
+      "organization": "American International University-Bangladesh (AIUB)",
+      "period": "Expected graduation: December 2026",
+      "description": "Final-year CSE student. Internship is the remaining graduation requirement.",
+      "tags": [
+        "Computer Science",
+        "Engineering",
+        "AIUB"
+      ]
+    },
+    {
+      "title": "Research Interests",
+      "organization": "Artificial Intelligence & Data Science",
+      "period": "Ongoing",
+      "description": "Research interests include Machine Learning, Natural Language Processing, Computer Vision, Large Language Models, and Data Science.",
+      "tags": [
+        "Machine Learning",
+        "NLP",
+        "Computer Vision",
+        "LLMs",
+        "Data Science"
+      ]
+    }
+  ]
+}

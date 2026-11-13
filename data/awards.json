@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "title": "Football",
+      "organization": "Sports & recreation",
+      "description": "I've played in university tournaments and many tournaments outside the university. I'm not a professional, but I play well and truly enjoy the game. If I hadn't chosen CSE, I would definitely have become a footballer.",
+      "tags": ["Football", "Teamwork", "Fitness"]
+    },
+    {
+      "title": "Cricket",
+      "organization": "Sports & recreation",
+      "description": "I enjoy playing cricket and the teamwork, focus, and energy it brings.",
+      "tags": ["Cricket", "Teamwork", "Sports"]
+    },
+    {
+      "title": "Running & Marathons",
+      "organization": "Running and endurance",
+      "description": "I run and take part in marathon events to challenge myself and build endurance.",
+      "tags": ["Running", "Marathon", "Endurance"]
+    },
+    {
+      "title": "Online Gaming",
+      "organization": "Games I enjoy",
+      "description": "When I have some free time, I enjoy playing PUBG, Free Fire, eFootball, Clash Royale, and many other games.",
+      "tags": ["PUBG", "Free Fire", "eFootball", "Clash Royale"]
+    }
+  ]
+}

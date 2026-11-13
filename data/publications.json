@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "title": "Edge-Deployable Lightweight Horticultural Disease Detection Using Transfer Learning for Jackfruit and Lychee with Explainable AI",
+      "organization": "Paper in progress",
+      "period": "In progress",
+      "description": "Lightweight, edge-deployable disease detection for jackfruit and lychee using transfer learning and explainable AI.",
+      "tags": [
+        "Transfer Learning",
+        "Edge AI",
+        "Explainable AI",
+        "Jackfruit",
+        "Lychee"
+      ]
+    },
+    {
+      "title": "Explainable Lightweight Deep Learning for Common Skin Disease Classification in Low-Resource Clinical Environments",
+      "organization": "Paper in progress",
+      "period": "In progress",
+      "description": "Explainable, computationally efficient deep-learning methods for classifying common skin diseases in low-resource clinical settings.",
+      "tags": [
+        "Deep Learning",
+        "Explainable AI",
+        "Medical AI",
+        "Low-Resource Settings"
+      ]
+    },
+    {
+      "title": "Lightweight and Explainable Deep Learning for Cross-Dataset Rice Leaf Disease Detection from Smartphone Images",
+      "organization": "Paper in progress",
+      "period": "In progress",
+      "description": "Lightweight rice-leaf disease classification across datasets using smartphone images and explainability techniques.",
+      "tags": [
+        "Deep Learning",
+        "Rice Leaf Disease",
+        "Smartphone Images",
+        "Explainable AI"
+      ]
+    }
+  ]
+}

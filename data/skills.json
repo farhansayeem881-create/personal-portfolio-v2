@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "name": "Python",
+      "category": "Programming"
+    },
+    {
+      "name": "C++",
+      "category": "Programming"
+    },
+    {
+      "name": "SQL",
+      "category": "Database & Analytics"
+    },
+    {
+      "name": "Machine Learning",
+      "category": "AI & ML"
+    },
+    {
+      "name": "Natural Language Processing",
+      "category": "AI & ML"
+    },
+    {
+      "name": "Computer Vision",
+      "category": "AI & ML"
+    },
+    {
+      "name": "Data Analysis",
+      "category": "Data & Analytics"
+    },
+    {
+      "name": "Java / C#",
+      "category": "Programming"
+    },
+    {
+      "name": "JavaScript",
+      "category": "Web Development"
+    },
+    {
+      "name": "MATLAB",
+      "category": "Scientific Computing"
+    }
+  ]
+}

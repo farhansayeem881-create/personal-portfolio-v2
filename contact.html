@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Get in touch with Md Sayeem.">
+  <title>Contact | Personal Portfolio</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/theme.js" defer></script>
+  <script src="js/app.js" defer></script>
+  <script src="js/contact.js" defer></script>
+</head>
+<body>
+  <div class="site-shell">
+    <header class="topbar">
+      <a class="brand" href="index.html" aria-label="md.sayeem home"><svg class="brand-symbol" viewBox="0 0 64 72" aria-hidden="true"><g fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"><path d="M32 4v9" stroke-width="4"/><path d="M32 14c-13 0-23 10-23 23v4c0 12 10 21 23 21s23-9 23-21v-4C55 24 45 14 32 14Z" stroke-width="4"/><path d="M8 31c-5 3-5 13 0 16M56 31c5 3 5 13 0 16" stroke-width="4"/><path d="M23 47h18M25 62v6H17M39 62v6h8" stroke-width="4"/></g><circle cx="32" cy="5" r="4" fill="var(--accent)"/><circle cx="23" cy="34" r="4" fill="var(--accent)"/><circle cx="41" cy="34" r="4" fill="var(--accent)"/><path d="M28 43h8l-4 3Z" fill="var(--accent)"/><path d="M25 54h14" stroke="var(--accent)" stroke-width="3" stroke-linecap="round"/></svg><span class="brand-name">MD<span class="brand-dot">.</span> SAYEEM</span></a>
+      <button class="menu-toggle" aria-label="Open navigation" aria-expanded="false">☰</button>
+      <nav class="nav-links" aria-label="Main navigation">
+        <a href="index.html">Home</a><a href="academic.html">Academic</a><a href="education.html">Education</a>
+        <a href="publication.html">Publication</a><a href="certificate.html">Certificate</a><a href="projects.html">Projects</a><a href="others.html">Others</a>
+      </nav>
+      <div class="nav-actions"><button class="theme-toggle" aria-label="Toggle color theme">☾</button><a class="talk-btn" href="contact.html">LET'S TALK</a></div>
+    </header>
+    <main class="inner-page section-wrap contact-page">
+      <div class="contact-layout">
+        <section class="contact-panel connect-panel" aria-labelledby="connect-title">
+          <h1 id="connect-title">Connect with me</h1>
+          <p class="contact-intro">I’m happy to hear from you. You can reach me through WhatsApp, phone, GitHub, or LinkedIn.</p>
+          <div class="contact-links">
+            <a class="contact-link" href="tel:+8801608776555"><span class="contact-icon" aria-hidden="true">☎</span><span><strong>Call</strong><small>01608776555</small></span></a>
+            <a class="contact-link" href="https://wa.me/8801779279000" target="_blank" rel="noreferrer"><span class="contact-icon" aria-hidden="true">◉</span><span><strong>WhatsApp</strong><small>Message me directly</small></span></a>
+            <a class="contact-link" href="https://github.com/farhansayeem881-create" target="_blank" rel="noreferrer"><span class="contact-icon" aria-hidden="true">⌘</span><span><strong>GitHub</strong><small>github.com/farhansayeem881-create</small></span></a>
+            <a class="contact-link" href="https://www.linkedin.com/in/farhan-sayeem-84957b415" target="_blank" rel="noreferrer"><span class="contact-icon" aria-hidden="true">in</span><span><strong>LinkedIn</strong><small>Farhan Sayeem</small></span></a>
+          </div>
+        </section>
+        <section class="contact-panel message-panel" aria-labelledby="message-title">
+          <h2 id="message-title">Send a message</h2>
+          <form id="contact-form">
+            <div class="contact-fields-row">
+              <label>Your name<input name="name" type="text" autocomplete="name" placeholder="Enter your name" required maxlength="100"></label>
+              <label>Email address<input name="email" type="email" autocomplete="email" placeholder="name@example.com" required maxlength="150"></label>
+            </div>
+            <label>Subject<input name="subject" type="text" placeholder="What would you like to discuss?" required maxlength="150"></label>
+            <label class="message-label"><span>Message <small id="message-count">0/1000</small></span><textarea name="message" rows="6" maxlength="1000" placeholder="Write your message here..." required></textarea></label>
+            <button class="btn primary send-message" type="submit">Send Message</button>
+            <p id="contact-status" class="contact-status" aria-live="polite">Submitting opens WhatsApp so you can review and send your message.</p>
+          </form>
+        </section>
+      </div>
+    </main>
+    <footer class="footer-home"><span><a class="btn primary footer-home-btn" href="index.html">Back to home ↑</a></span></footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+﻿{
+    "items":  [
+                  {
+                      "title":  "Tuition Management System",
+                      "type":  "Web Development",
+                      "description":  "Developed a web-based system to organize tuition-related information and management tasks.",
+                      "tags":  [
+                                   "Web Development",
+                                   "Management System"
+                               ],
+                      "image":  "project-tuition.png"
+                  },
+                  {
+                      "title":  "Cricket Management System",
+                      "type":  "Web Development",
+                      "description":  "Developed a web-based system for managing cricket-related information and activities.",
+                      "tags":  [
+                                   "Web Development",
+                                   "Cricket"
+                               ],
+                      "image":  "project-cricket.png"
+                  },
+                  {
+                      "title":  "E-Commerce Management System",
+                      "type":  "Web Technologies Course",
+                      "description":  "Developed an e-commerce management system as a Web Technologies course project.",
+                      "tags":  [
+                                   "E-Commerce",
+                                   "Web Technologies",
+                                   "Course Project"
+                               ],
+                      "image":  "project-ecommerce.png"
+                  },
+                  {
+                      "title":  "Smart Parking System",
+                      "type":  "Microprocessor Course",
+                      "description":  "Built a smart parking system as a Microprocessor course project.",
+                      "tags":  [
+                                   "Microprocessor",
+                                   "Smart Parking",
+                                   "Course Project"
+                               ],
+                      "image":  "project-smart-parking.png"
+                  },
+                  {
+                      "title":  "Sylhet Tourist Spot",
+                      "type":  "Computer Graphics",
+                      "description":  "Designed a computer-graphics project depicting a tourist spot in Sylhet.",
+                      "tags":  [
+                                   "Computer Graphics",
+                                   "Sylhet",
+                                   "Course Project"
+                               ],
+                      "image":  "project-sylhet.png"
+                  },
+                  {
+                      "title":  "Bird Management System",
+                      "type":  "Software Engineering",
+                      "description":  "Developed a software system to manage bird-related information and records as part of a Software Engineering course project.",
+                      "tags":  [
+                                   "Software Engineering",
+                                   "Management System",
+                                   "Course Project"
+                               ],
+                      "image":  "project-birds.png"
+                  },
+                  {
+                      "title":  "Message Emotion Detection Using Emojis",
+                      "type":  "Natural Language Processing (NLP)",
+                      "description":  "Developed an NLP-based system to detect emotions in text messages using emoji analysis. The system identifies emotional expressions in messages based on emoji patterns.",
+                      "tags":  [
+                                   "NLP",
+                                   "Emotion Detection",
+                                   "Emoji Analysis"
+                               ],
+                      "image":  "project-emotion.png"
+                  }
+              ]
+}

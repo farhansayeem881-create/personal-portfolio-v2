@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Professional Profiles",
+      "description": "Add your verified professional and developer profile links here.",
+      "tags": [
+        "GitHub",
+        "LinkedIn",
+        "Codeforces"
+      ],
+      "url": "https://github.com/farhansayeem881-create"
+    },
+    {
+      "title": "Career Interests",
+      "description": "Interested in AI/ML, Data Science, Data Analytics, and Data Engineering opportunities.",
+      "tags": [
+        "AI/ML",
+        "Data Science",
+        "Data Analytics",
+        "Data Engineering"
+      ]
+    }
+  ]
+}
