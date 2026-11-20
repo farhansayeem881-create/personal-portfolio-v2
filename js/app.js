@@ -32,7 +32,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 function renderLearningCourse(item) {
   const completed = item.status === 'Completed';
-  return `<article class="learning-course"><div class="course-mark" aria-hidden="true">${completed ? '✓' : '◷'}</div><div class="course-copy"><span class="course-category">${escapeHTML(item.category || 'Course')}</span><h3>${escapeHTML(item.title || 'Untitled')}</h3><span class="course-issuer">${escapeHTML(item.issuer || 'DataCamp')}</span></div><span class="course-status ${completed ? 'is-completed' : 'is-progress'}">${escapeHTML(item.status || 'In progress')}</span></article>`;
+  const preview = item.url ? `<iframe class="certificate-preview" src="${escapeHTML(item.url)}#toolbar=0&navpanes=0&scrollbar=0" title="${escapeHTML(item.title || 'Certificate')} preview"></iframe>` : '';
+  const link = item.url ? `<a class="course-link" href="${escapeHTML(item.url)}" target="_blank" rel="noopener noreferrer">Open PDF ↗</a>` : '';
+  return `<article class="learning-course">${preview}<div class="course-details"><div class="course-mark" aria-hidden="true">${completed ? '✓' : '◷'}</div><div class="course-copy"><span class="course-category">${escapeHTML(item.category || 'Course')}</span><h3>${escapeHTML(item.title || 'Untitled')}</h3><span class="course-issuer">${escapeHTML(item.issuer || 'DataCamp')}</span></div><span class="course-status ${completed ? 'is-completed' : 'is-progress'}">${escapeHTML(item.status || 'In progress')}</span>${link}</div></article>`;
 }
 function renderCard(item) {
   const image = item.image ? `<img class="card-image" src="assets/images/${escapeHTML(item.image)}" alt="${escapeHTML(item.title || item.name || 'Portfolio image')}" onerror="this.style.display='none'">` : '';

@@ -1,11 +1,30 @@
-{
-  "items": [
-    { "title": "Introduction to Python", "issuer": "DataCamp", "category": "Python", "status": "In progress" },
-    { "title": "Intermediate Python", "issuer": "DataCamp", "category": "Python", "status": "In progress" },
-    { "title": "Introduction to Machine Learning", "issuer": "DataCamp", "category": "Machine Learning", "status": "In progress" },
-    { "title": "Supervised Learning with scikit-learn", "issuer": "DataCamp", "category": "Machine Learning", "status": "In progress" },
-    { "title": "Introduction to Artificial Intelligence", "issuer": "DataCamp", "category": "Artificial Intelligence", "status": "In progress" },
-    { "title": "Introduction to Git", "issuer": "DataCamp", "category": "Git", "status": "In progress" },
-    { "title": "Intermediate Git", "issuer": "DataCamp", "category": "Git", "status": "In progress" }
-  ]
-}
+[
+  {
+    "category": "Certificate",
+    "title": "Introduction to AI for Work",
+    "issuer": "Personal certificate archive",
+    "status": "Completed",
+    "url": "assets/certificate/certificate.pdf"
+  },
+  {
+    "category": "Certificate",
+    "title": "Introduction to Python",
+    "issuer": "Personal certificate archive",
+    "status": "Completed",
+    "url": "assets/certificate/certificate%20(1).pdf"
+  },
+  {
+    "category": "Certificate",
+    "title": "Introduction to Shell",
+    "issuer": "Personal certificate archive",
+    "status": "Completed",
+    "url": "assets/certificate/certificate%20(2).pdf"
+  },
+  {
+    "category": "Certificate",
+    "title": "Understanding ChatGPT",
+    "issuer": "Personal certificate archive",
+    "status": "Completed",
+    "url": "assets/certificate/certificate%20(3).pdf"
+  }
+]
